@@ -3,7 +3,9 @@ Simple Django Social Media Project
 
 python anywhere
 https://temp313.pythonanywhere.com/
+
 https://temp313.pythonanywhere.com/login/
+
 https://temp313.pythonanywhere.com/posts/home/
 
 
